@@ -1,0 +1,16 @@
+!_synergyUC/**/*.cs     
+_synergyUC/**/packages/
+_synergyUC/**/Properties/
+_synergyUC/**/bin/
+_synergyUC/**/obj/
+_synergyUC/**/*.xml
+_synergyUC/**/*.xsd
+_synergyUC/**/*.config
+_synergyUC/**/*.xaml
+_synergyUC/**/*.csproj
+_synergyUC/**/*.sln
+
+
+_synergyUC/**/*.suo
+_synergyUC/**/*.user
+_synergyUC/**/*.vs
