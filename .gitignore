@@ -1,0 +1,19 @@
+# Игнорировать папку packages и её содержимое
+_synergyUC/**/packages/
+_synergyUC/**/packages/**
+_synergyUC/**/obj/**
+_synergyUC/**/obj/
+_synergyUC/**/bin/
+_synergyUC/**/bin/**
+_synergyUC/**/Properties/**
+_synergyUC/**/Properties/
+
+# Игнорировать файлы .xml, .xsd, .config
+_synergyUC/**/*.xml 
+_synergyUC/**/*.xsd
+_synergyUC/**/*.config
+
+# Игнорировать временные и бинарные файлы
+_synergyUC/**/*.suo
+_synergyUC/**/*.user
+_synergyUC/**/*.vs
