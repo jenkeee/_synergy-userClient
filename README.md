@@ -1,6 +1,5 @@
-# _synergy-userClient
-
-_synergy-userClient — клиентское приложение для управления игровым сообществом **Pax Dei**.
+# _synergyUC
+_synergyUC — пользовательский клиент приложения paxdei.su.
 
 ## О проекте
 
